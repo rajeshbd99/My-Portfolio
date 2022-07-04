@@ -5,6 +5,11 @@ body {
 
 h1 {
     font-size: 40px;
+    padding-right: 10%;
+}
+
+p {
+    padding-right: 10%;
 }
 
 .color {
@@ -13,6 +18,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 100px;
 }
 
 .half-width {
@@ -35,4 +41,11 @@ section {
 
 .top-banner {
     background-image: url(New\ Project1.png);
+}
+
+.dream-big {
+    background-image: url(123.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 120px;
 }
